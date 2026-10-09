@@ -17,11 +17,15 @@ Sou apaixonado por transformar ideias de negócio e designs do Figma em código 
 
 ## 📊 Tecnologias em aprendizado
 
+## 📊 Tecnologias do Projeto
+
 | Tecnologia | Proporção |
 | :--- | :--- |
-| **HTML5** | `██████████████████` 45% |
-| **CSS3** | `██████████████████` 45% |
-| **Tailwind CSS** | `████` 10% |
+| **HTML5** | `██████████████` 35% |
+| **CSS3** | `██████████████` 35% |
+| **JavaScript** | `████████` 20% |
+| **Python** | `██` 5% |
+| **Tailwind CSS** | `██` 5% |
 
 ---
 

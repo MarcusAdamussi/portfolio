@@ -1,7 +1,7 @@
 # 🚀 Portfólio Pessoal | Marcus Adamussi
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?style=for-the-badge&logo=github)](https://MarcusAdamussi.github.io/portfolio/)
-[![Figma](https://img.shields.io/badge/Figma-Design%20System-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/j0lKbS9fuy7XbMcJejPMQZ/Marcus-Adamussi--Portfolio-?node-id=0-1)
+
 
 > 📌 **Acesse a Landing Page ao vivo:** [https://MarcusAdamussi.github.io/portfolio/](https://MarcusAdamussi.github.io/portfolio/)
 

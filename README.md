@@ -15,7 +15,7 @@ Sou apaixonado por transformar ideias de negócio e designs do Figma em código 
 
 ---
 
-## 📊 Tecnologias do Projeto
+## 📊 Tecnologias em aprendizado
 
 | Tecnologia | Proporção |
 | :--- | :--- |

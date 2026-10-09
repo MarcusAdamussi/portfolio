@@ -31,7 +31,7 @@ Sou apaixonado por transformar idéias de negócio em código limpo, semântico,
 ## 📸 Preview da Landing Page
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarcusAdamussi/portfolio/main/lista-afazeres600.png" alt="Preview da Landing Page Marcus Adamussi" width="800px" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/MarcusAdamussi/portfolio/main/imagemportifolio.png" alt="Preview da Landing Page Marcus Adamussi" width="800px" style="border-radius: 10px;" />
 </div>
 
 ---

@@ -1,6 +1,7 @@
 # 🚀 Portfólio Pessoal | Marcus Adamussi
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?style=for-the-badge&logo=github)](https://MarcusAdamussi.github.io/portfolio/)
+[![Figma](https://img.shields.io/badge/Figma-Design%20System-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/j0lKbS9fuy7XbMcJejPMQZ/Marcus-Adamussi--Portfolio-?node-id=0-1)
 
 > 📌 **Acesse a Landing Page ao vivo:** [https://MarcusAdamussi.github.io/portfolio/](https://MarcusAdamussi.github.io/portfolio/)
 
@@ -10,7 +11,17 @@
 
 Olá! Sou o **Marcus Adamussi**, estudante e desenvolvedor **Web Full Stack** em busca de oportunidades como **Estagiário ou Júnior**. 
 
-Sou apaixonado por transformar idéias de negócio em código limpo, semântico, moderno e completamente responsivo para qualquer dispositivo.
+Sou apaixonado por transformar ideias de negócio e designs do Figma em código limpo, semântico, moderno e completamente responsivo para qualquer dispositivo.
+
+---
+
+## 📊 Tecnologias do Projeto
+
+| Tecnologia | Proporção |
+| :--- | :--- |
+| **HTML5** | `██████████████████` 45% |
+| **CSS3** | `██████████████████` 45% |
+| **Tailwind CSS** | `████` 10% |
 
 ---
 
